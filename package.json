@@ -12,6 +12,7 @@
     "@auth/prisma-adapter": "^2.11.3",
     "@base-ui/react": "^1.9.0",
     "@hookform/resolvers": "^7.0.1",
+    "better-auth": "^1.7.15",
     "cn": "^0.5.1",
     "next": "16.4.3",
     "next-auth": "^4.24.15",
