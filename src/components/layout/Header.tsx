@@ -18,7 +18,7 @@ export function Header() {
               <ShoppingCart className="w-5 h-5" />
             </Button>
           </Link>
-          <Link href="/admin">
+          <Link href="/login">
             <Button variant="ghost" size="icon">
               <User className="w-5 h-5" />
             </Button>
